@@ -1,9 +1,9 @@
 {
-  "name": "Better Politics Mod",
+  "name": "Anbennar-BPM-compatch",
   "id": "",
-  "version": "2.4",
-  "supported_game_version": "1.9.*",
-  "short_description": "New IGs and dynamic politics.",
+  "version": "1.0",
+  "supported_game_version": "1.*.*",
+  "short_description": "Anbennar-BPM-Compatch",
   "thumbnail": "thumbnail.png",
   "tags": [],
   "relationships": [],
